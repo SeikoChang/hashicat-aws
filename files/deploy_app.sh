@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to Seiko's appaaaa. Replace this text with your own.
+=======
+  Welcome to Seiko's app. Replace this text with your own.
+>>>>>>> 64d02de66aff8c8ad84ca837bb1e1938d66d84b0
   <!-- END -->
 
   </div>
